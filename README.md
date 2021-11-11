@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS ...
 - 📫 How to reach me => arasalcoding@gmail.com
 
+<h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/13arash63" target="blank"><img src="https://img.shields.io/twitter/follow/13arash63?logo=twitter&style=for-the-badge" alt="13arash63" /></a> </p>
+
+<a href="https://codepen.io/arash63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arash63" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
