@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/13arash63" target="blank"><img src="https://img.shields.io/twitter/follow/13arash63?logo=twitter&style=for-the-badge" alt="13arash63" /></a> </p>
 
-<p align="left"> <a href="https://codepen.io/arash63" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="13arash63" /></a> </p>
+<p align="left"> <a href="https://codepen.io/arash63" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="13arash63" height="50" width="60"/></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
