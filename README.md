@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arash!
 - 👀 A passionate junior developer from Canada!
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS ...
-- 📫 How to reach me => arasalcoding@gmail.com
+- 📫 How to reach me => arashcoding85@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/13arash63" target="blank"><img src="https://img.shields.io/twitter/follow/13arash63?logo=twitter&style=for-the-badge" alt="13arash63"/></a> </p>
