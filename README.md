@@ -6,7 +6,7 @@
 - 📫 How to reach me => arashcoding85@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Twitter<a href="https://twitter.com/arashcoding" target="blank"><img src="https://img.shields.io/twitter/follow/arashcoding?logo=twitter&style=for-the-badge" alt="arashcoding"/></a> </p> <p align="left">CodePen<a href="https://codepen.io/arash63" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arash63" height="50" width="90"/></a> </p>
+<p align="left"><a href="https://twitter.com/arashcoding" target="blank"><img src="https://img.shields.io/twitter/follow/arashcoding?logo=twitter&style=for-the-badge" alt="arashcoding"/></a></p><p align="left"> <a href="https://codepen.io/arash63" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arash63" height="50" width="90"/></a> </p>
 
  <h3 align="left">Languages and Tools:</h3>
 
