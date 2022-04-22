@@ -1,6 +1,6 @@
 
 ![myHeader](https://user-images.githubusercontent.com/77899651/157525532-2939e7ea-57fd-4a9a-b74b-b660e033f716.png)
-- 👀 A passionate junior developer from Canada!
+- 👀 A junior developer from Canada!
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS ...
 - 📫 How to reach me => arashcoding85@gmail.com
 <h3 align="left">Connect with me:</h3>
