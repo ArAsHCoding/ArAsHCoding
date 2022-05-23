@@ -1,6 +1,6 @@
 
-![myHeader](https://user-images.githubusercontent.com/77899651/157525532-2939e7ea-57fd-4a9a-b74b-b660e033f716.png)
-### 👀 A junior developer from Canada!
+![github-header-image](https://user-images.githubusercontent.com/77899651/169727545-365870b7-2888-4a7d-9e72-5e338c62cbf8.png)
+
 ### 📫 Contact me: 
 *arashcoding85@gmail.com*
 ### Follow me: 
