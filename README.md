@@ -4,7 +4,7 @@
 *itdevcoding@gmail.com*
 
 ### Follow me: 
-<a href="https://twitter.com/itdevcoding" target="blank"><img src="https://img.shields.io/twitter/follow/arashcoding?logo=twitter&style=for-the-badge" alt="itdevcoding"/></a>
+<a href="https://twitter.com/itdevcoding" target="blank"><img src="https://img.shields.io/twitter/follow/itdevcoding?logo=twitter&style=for-the-badge" alt="itdevcoding"/></a>
 
 ### Top Skills: 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="60" height="60"></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="60" height="60"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="60" height="60"></a> 
